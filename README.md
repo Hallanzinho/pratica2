@@ -35,10 +35,3 @@ inicio
 	ESCREVA(resultado);
 
 fim-algoritmo
-	
-	
-	
-	ESCREVA("O resultado é:");
-	ESCREVA(resultado);
-
-fim-algoritmo
