@@ -1,4 +1,4 @@
-# pratica2
+# pratica2 Hallan calazans lima dos santos
 
 algoritmo cotação do dolar
 
